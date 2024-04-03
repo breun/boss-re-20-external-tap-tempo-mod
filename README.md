@@ -48,7 +48,7 @@ Got everything ready to go? Let's add an external tap tempo connector to your Bo
 16. Solder the two wires to the points on the second circuit as indicated below. Make sure that the wires are oriented such that the unsoldered ends are between the two circuit boards. I used yellow wire for GROUND, and orange/red for TAP. ![Solder the wires to the circuit board](images/RE-20%20circuit%20board%20connection%20points.HEIC) ![Soldered wires](images/RE-20%20soldered%20tap%20tempo%20wires.HEIC)
 17. Put back the plastic shield. ![Soldered wires under plastic shield](images/RE-20%20soldered%20tap%20tempo%20wires%20under%20plastic%20shield.HEIC)
 18. Push the jack connectors out through the enclosure again and put the circuit board back into place. ![Circuit board back into place](images/RE-20%20wires%20between%20circuit%20boards.HEIC)
-19. Verify that you can put the new connector into the new hole, and that it has enough room. I had to remove a bit of the plastic on the outside of my particular jack connector to make it fit.
+19. Verify that you can put the new connector into the new hole, and that it has enough room. I had to remove a bit of the plastic on the outside of my particular jack connector to make it fit. Side cutters or some sandpaper may help here.
 20. If you can’t make the connector fit, you'll have to get another one that does fit.
 21. Take the new connector out again if that makes it easier to access its lugs for soldering.
 22. Solder the GROUND wire (yellow in my case) to the ring lug on the connector.
