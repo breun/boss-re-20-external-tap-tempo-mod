@@ -19,6 +19,7 @@ You'll also be able to still change the tempo using the built-in tap tempo pedal
 * A drill and a couple of metal drill bits up to 10 mm.
   * If you plan to use a different connector than a 6.5 mm jack, make sure you have an appropriate drill bit for this connector's outside diameter.
   * If you have access to a drill press, you'll want to use it.
+* A bit of masking tape.
 * Two pieces of thin electrical wire. Approximately 15-20 cm long each.
   * Pickup wire will work. 
   * If you have two different colors, that makes it easier to see which wire is which.
@@ -42,24 +43,25 @@ Got everything ready to go? Let's add an external tap tempo connector to your Bo
 10. Put the circuit board with the jack connectors back into the holes and put the metal plate with the 6 holes over the jack plugs on the outside of the enclosure.
 11. Mark the center and/or outline of the location of the new hole using the metal plate as a template. 
 12. Take the metal plate off again, slide the first circuit board out again and put the metal plate over the jack connectors on the circuit board again.
-13. Drill the hole for the new connector. You may want to start with a smaller drill bit size and work your way up to 10 mm (or whatever you need for the connector you've chosen if it's not a 6.5 mm full-size jack). ![Drilling the hole](images/RE-20%20drilling%20the%20hole.HEIC)
-14. Take out the plastic shield to uncover the second circuit board.
-15. Cut two pieces of wire of approximately 15-20 cm each, and strip off approximately 3 mm of insulation at all ends (enough to solder). If you have two different colors of wire available, that can help to distinguish the two pieces.
-16. Solder the two wires to the points on the second circuit as indicated below. Make sure that the wires are oriented such that the unsoldered ends are between the two circuit boards. I used yellow wire for GROUND, and orange/red for TAP. ![Solder the wires to the circuit board](images/RE-20%20circuit%20board%20connection%20points.HEIC) ![Soldered wires](images/RE-20%20soldered%20tap%20tempo%20wires.HEIC)
-17. Put back the plastic shield. ![Soldered wires under plastic shield](images/RE-20%20soldered%20tap%20tempo%20wires%20under%20plastic%20shield.HEIC)
-18. Push the jack connectors out through the enclosure again and put the circuit board back into place. ![Circuit board back into place](images/RE-20%20wires%20between%20circuit%20boards.HEIC)
-19. Verify that you can put the new connector into the new hole, and that it has enough room. I had to remove a bit of the plastic on the outside of my particular jack connector to make it fit. Side cutters or some sandpaper may help here.
-20. If you can’t make the connector fit, you'll have to get another one that does fit.
-21. Take the new connector out again if that makes it easier to access its lugs for soldering.
-22. Solder the GROUND wire (yellow in my case) to the ring lug on the connector.
-23. Solder the TAP wire (orange/red in my case) to the tip lug on the connector.
-24. Put the new connector into the new hole if it’s not there yet. Put a washer and nut on it on the outside of the enclosure, and tighten the nut. ![Connector installed](images/RE-20%20wires%20between%20circuit%20boards%202.HEIC)
-25. Put the washers and nuts back on the other jack connectors as well, and tighten those nuts too.
-26. Screw the circuit board back into place again using the 4 silver screws and their washers. ![Nuts back on](images/RE-20%20external%20tap%20tempo%20connector%20installed.HEIC)
-27. Slide the 9V DC connector back into the enclosure.
-28. Put the battery compartment back into place. Plug the battery compartment back into the circuit board if you unplugged it before.
-29. Put the bottom plate back on using the 7 black screws.
-30. Put the lid of the battery compartment back in.
-31. Optionally create a label for the new tap tempo connector, for instance using a label maker, and stick it above the connector on the outside of the enclosure. ![Add label](images/RE-20%20external%20tap%20tempo%20connector%20label.HEIC)
-32. Connect an external tap tempo pedal that is set up for ‘normally open’ operation. Plug in the audio input(s) and output(s), and power on the RE-20.
-33. Enjoy the external tempo tapping with your Boss RE-20 Space Echo!
+13. Put some masking tape on the circuit board to protect it from any bits of metal that might land on it when drilling, which could cause issues.
+14. Drill the hole for the new connector. You may want to start with a smaller drill bit size and work your way up to 10 mm (or whatever you need for the connector you've chosen if it's not a 6.5 mm full-size jack). ![Drilling the hole](images/RE-20%20drilling%20the%20hole.HEIC)
+15. Take out the plastic shield to uncover the second circuit board.
+16. Cut two pieces of wire of approximately 15-20 cm each, and strip off approximately 3 mm of insulation at all ends (enough to solder). If you have two different colors of wire available, that can help to distinguish the two pieces.
+17. Solder the two wires to the points on the second circuit as indicated below. Make sure that the wires are oriented such that the unsoldered ends are between the two circuit boards. I used yellow wire for GROUND, and orange/red for TAP. ![Solder the wires to the circuit board](images/RE-20%20circuit%20board%20connection%20points.HEIC) ![Soldered wires](images/RE-20%20soldered%20tap%20tempo%20wires.HEIC)
+18. Put back the plastic shield. ![Soldered wires under plastic shield](images/RE-20%20soldered%20tap%20tempo%20wires%20under%20plastic%20shield.HEIC)
+19. Push the jack connectors out through the enclosure again and put the circuit board back into place. ![Circuit board back into place](images/RE-20%20wires%20between%20circuit%20boards.HEIC)
+20. Verify that you can put the new connector into the new hole, and that it has enough room. I had to remove a bit of the plastic on the outside of my particular jack connector to make it fit. Side cutters or some sandpaper may help here.
+21. If you can’t make the connector fit, you'll have to get another one that does fit.
+22. Take the new connector out again if that makes it easier to access its lugs for soldering.
+23. Solder the GROUND wire (yellow in my case) to the ring lug on the connector.
+24. Solder the TAP wire (orange/red in my case) to the tip lug on the connector.
+25. Put the new connector into the new hole if it’s not there yet. Put a washer and nut on it on the outside of the enclosure, and tighten the nut. ![Connector installed](images/RE-20%20wires%20between%20circuit%20boards%202.HEIC)
+26. Put the washers and nuts back on the other jack connectors as well, and tighten those nuts too.
+27. Screw the circuit board back into place again using the 4 silver screws and their washers. ![Nuts back on](images/RE-20%20external%20tap%20tempo%20connector%20installed.HEIC)
+28. Slide the 9V DC connector back into the enclosure.
+29. Put the battery compartment back into place. Plug the battery compartment back into the circuit board if you unplugged it before.
+30. Put the bottom plate back on using the 7 black screws.
+31. Put the lid of the battery compartment back in.
+32. Optionally create a label for the new tap tempo connector, for instance using a label maker, and stick it above the connector on the outside of the enclosure. ![Add label](images/RE-20%20external%20tap%20tempo%20connector%20label.HEIC)
+33. Connect an external tap tempo pedal that is set up for ‘normally open’ operation. Plug in the audio input(s) and output(s), and power on the RE-20.
+34. Enjoy the external tempo tapping with your Boss RE-20 Space Echo!
